@@ -10,6 +10,7 @@
 <body>
     <header>
         <h1>Your Guide to Wolt Promo Code in Greece HKVG27U</h1>
+           <img src="https://raw.githubusercontent.com/promo-code-wolt/Wolt-Promo-Code-Greece/refs/heads/main/wolt-promo-code-hkvg27u.jpg" alt="Wolt Promo Code Greece">
     </header>
     <main>
         <section>
@@ -23,6 +24,7 @@
             </ul>
         </section>
         <section>
+              <img src="https://d21buns5ku92am.cloudfront.net/69274/images/552967-IMG_0023-b8b87f-large-1726482994.jpg" alt="Save With Wolt Code in Greece">
             <h2>What is Wolt and Why Use Promo Codes?</h2>
             <p>Wolt is a popular food and grocery delivery service that connects users with local restaurants, shops, and markets for quick, reliable deliveries. In Greece, it’s gained traction for its seamless app experience and diverse options. Promo codes like "HKVG27U" provide immediate discounts, helping offset delivery fees or order costs, especially for first-time users. <a href="https://wolt.com/en/discovery/food-delivery-app">[Source]</a></p>
         </section>
